@@ -3,7 +3,7 @@
   "name": "Play",
   "version": "1.2.16",
   "description": "Play • Tek kaynaktan yüksek hızlı Türkçe film ve dizi akış sağlayıcısı.",
-  "logo": "https://cdn.jsdelivr.net/gh/csprofesor/apple@main/playrepo/logo.png",
+  "logo": "https://cdn.jsdelivr.net/gh/qera18/playrepo-test@main/playrepo/logo.png",
   "resources": [
     "catalog",
     "meta",
@@ -559,7 +559,7 @@
       "filename": "providers/playrepo.js",
       "enabled": true,
       "hasSettings": false,
-      "logo": "https://cdn.jsdelivr.net/gh/csprofesor/apple@main/playrepo/logo.png",
+      "logo": "https://cdn.jsdelivr.net/gh/qera18/playrepo-test@main/playrepo/logo.png",
       "contentLanguage": [
         "tr",
         "en"
